@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "d1e68f9b994f607fa8dd878f3de0f5dafafe2df4"
+    "signature": "c4d6a2741a94110a1d131a5c2df8decc6a37e234"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "DropzoneMobile.AuditTool/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Telerik.UI.for.Xamarin": "2018.2.727.1",
           "Xamarin.Forms": "3.0.0.482510"
         },
         "runtime": {
@@ -20,6 +21,82 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "SkiaSharp/1.59.1": {
+        "runtime": {
+          "lib/netstandard1.3/SkiaSharp.dll": {
+            "assemblyVersion": "1.59.0.0",
+            "fileVersion": "1.59.1.0"
+          }
+        }
+      },
+      "SkiaSharp.Views.Forms/1.59.1": {
+        "dependencies": {
+          "SkiaSharp": "1.59.1",
+          "Xamarin.Forms": "3.0.0.482510"
+        },
+        "runtime": {
+          "lib/netstandard1.3/SkiaSharp.Views.Forms.dll": {
+            "assemblyVersion": "1.59.0.0",
+            "fileVersion": "1.59.1.0"
+          }
+        }
+      },
+      "Telerik.UI.for.Xamarin/2018.2.727.1": {
+        "dependencies": {
+          "SkiaSharp.Views.Forms": "1.59.1",
+          "Xamarin.Forms": "3.0.0.482510"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Telerik.Documents.SpreadsheetStreaming.dll": {
+            "assemblyVersion": "2018.3.726.250",
+            "fileVersion": "2018.3.726.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.Barcode.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.Chart.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.Common.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.ConversationalUI.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.DataControls.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.DataGrid.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.DataVisualization.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.Input.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.Primitives.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.XamarinForms.SkiaSharp.dll": {
+            "assemblyVersion": "2018.2.727.250",
+            "fileVersion": "2018.2.727.250"
+          },
+          "lib/netstandard1.0/Telerik.Zip.dll": {
+            "assemblyVersion": "2018.3.726.250",
+            "fileVersion": "2018.3.726.250"
+          }
         }
       },
       "Xamarin.Forms/3.0.0.482510": {
@@ -59,6 +136,27 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "SkiaSharp/1.59.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Le+YqP0aWwJ5ImHikWiLWOWjdH8oOV6F2D7fknzKp9ArzDIrtPASeiHpI1RgqQEK/GGvR56B2l5belsDzwK7uQ==",
+      "path": "skiasharp/1.59.1",
+      "hashPath": "skiasharp.1.59.1.nupkg.sha512"
+    },
+    "SkiaSharp.Views.Forms/1.59.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oJB/Hgk1TghpMuuXhUZKmQ3rOU/l4RleYsgNd0EvrNmDahdr/PPhJ30rFH0OjdIsuf5T2hrRdAn55zdb7yMg2w==",
+      "path": "skiasharp.views.forms/1.59.1",
+      "hashPath": "skiasharp.views.forms.1.59.1.nupkg.sha512"
+    },
+    "Telerik.UI.for.Xamarin/2018.2.727.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KtxvjEAeCDqp++WGQNj6HLs3lz6WxVvs825oYpjCCPsuNeDEB2vH+r+KJ6SGkVy2UQ7g7Re8unKdOWyq9iL2Aw==",
+      "path": "telerik.ui.for.xamarin/2018.2.727.1",
+      "hashPath": "telerik.ui.for.xamarin.2018.2.727.1.nupkg.sha512"
     },
     "Xamarin.Forms/3.0.0.482510": {
       "type": "package",

@@ -12,7 +12,7 @@ namespace DropzoneMobile.AuditTool
         {
             InitializeComponent();
 
-            MainPage = new LoginView();
+            MainPage = new ToolSelectionVIew();
         }
 
         protected override void OnStart()

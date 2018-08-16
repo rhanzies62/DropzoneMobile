@@ -1,7 +1,6 @@
 /Users/franciscebu/Projects/DropzoneMobile/AuditToolUI/DropzoneMobile.AuditTool/bin/Debug/netstandard2.0/DropzoneMobile.AuditTool.deps.json
 /Users/franciscebu/Projects/DropzoneMobile/AuditToolUI/DropzoneMobile.AuditTool/bin/Debug/netstandard2.0/DropzoneMobile.AuditTool.dll
 /Users/franciscebu/Projects/DropzoneMobile/AuditToolUI/DropzoneMobile.AuditTool/bin/Debug/netstandard2.0/DropzoneMobile.AuditTool.pdb
-/Users/franciscebu/Projects/DropzoneMobile/AuditToolUI/DropzoneMobile.AuditTool/obj/Debug/netstandard2.0/DropzoneMobile.AuditTool.csprojResolveAssemblyReference.cache
 /Users/franciscebu/Projects/DropzoneMobile/AuditToolUI/DropzoneMobile.AuditTool/obj/Debug/netstandard2.0/DropzoneMobile.AuditTool.csproj.CoreCompileInputs.cache
 /Users/franciscebu/Projects/DropzoneMobile/AuditToolUI/DropzoneMobile.AuditTool/obj/Debug/netstandard2.0/DropzoneMobile.AuditTool.AssemblyInfoInputs.cache
 /Users/franciscebu/Projects/DropzoneMobile/AuditToolUI/DropzoneMobile.AuditTool/obj/Debug/netstandard2.0/DropzoneMobile.AuditTool.AssemblyInfo.cs
