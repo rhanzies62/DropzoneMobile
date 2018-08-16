@@ -1,5 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DropzoneMobile.AuditTool.Views.ToolSelectionVIew">
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:telerikInput="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.XamarinForms.Input"
+             x:Class="DropzoneMobile.AuditTool.Views.ToolSelectionVIew">
+    <ContentPage.Resources>
+            <telerikInput:BorderStyle x:Key="EntryBorderStyle" BorderThickness="1" BorderColor="#4488F6" CornerRadius="0" />
+        <ResourceDictionary>
+            <Style x:Key="btnPrimary" TargetType="telerikInput:RadButton">
+                        <Setter Property="BorderThickness" Value="2"/> 
+                        <Setter Property="BorderColor" Value="#4488F6"/>
+                        <Setter Property="BackgroundColor" Value="#4488F6"/>
+                        <Setter Property="WidthRequest" Value="300"/>
+                        <Setter Property="TextColor" Value="White"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
+        <StackLayout x:Name="layout" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+            <telerikInput:RadEntry Keyboard="Numeric" WatermarkText="Enter SBL ID" BorderStyle="{StaticResource EntryBorderStyle}" Padding="5" />
+            <telerikInput:RadButton x:Name="sblTool" 
+                        Text="Click here for SBL Tool"  
+                        Style="{StaticResource btnPrimary}"
+                        />
+            <telerikInput:RadEntry Keyboard="Numeric" WatermarkText="Enter BRI ID" BorderStyle="{StaticResource EntryBorderStyle}" Padding="5" />
+            <telerikInput:RadButton x:Name="briTool" 
+                        Text="Click here for BRI Tool"  
+                        Style="{StaticResource btnPrimary}"
+                        />            
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

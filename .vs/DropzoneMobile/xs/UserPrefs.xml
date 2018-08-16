@@ -1,5 +1,13 @@
 ﻿<Properties StartupConfiguration="{BDE16675-AB3D-4878-BD1F-717632928C67}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuditToolUI/DropzoneMobile.AuditTool/Views/ToolSelectionVIew.xaml">
+    <Files>
+      <File FileName="AuditToolUI/DropzoneMobile.AuditTool/Views/ToolSelectionVIew.xaml" Line="4" Column="62" />
+      <File FileName="AuditToolUI/DropzoneMobile.AuditTool/App.xaml" Line="5" Column="15" />
+      <File FileName="AuditToolUI/DropzoneMobile.AuditTool/App.xaml.cs" Line="13" Column="35" />
+      <File FileName="AuditToolUI/DropzoneMobile.AuditTool/Views/ToolSelectionVIew.xaml.cs" Line="13" Column="1" />
+      <File FileName="AuditToolUI/DropzoneMobile.AuditTool/obj/Debug/netstandard2.0/Views/ToolSelectionVIew.xaml.g.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AuditToolUI.DropzoneMobile.AuditTool.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9A92C968-CBE6-4E0A-9A62-10A08AD80E97" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
