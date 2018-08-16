@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{BDE16675-AB3D-4878-BD1F-717632928C67}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AuditToolUI.DropzoneMobile.AuditTool.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9A92C968-CBE6-4E0A-9A62-10A08AD80E97" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AuditToolUI.DropzoneMobile.AuditTool.Android PreferredExecutionTarget="Android.tablet_display" />
+</Properties>

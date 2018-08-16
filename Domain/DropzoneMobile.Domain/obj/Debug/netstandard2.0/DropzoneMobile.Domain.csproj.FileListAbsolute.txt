@@ -1,0 +1,8 @@
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/bin/Debug/netstandard2.0/DropzoneMobile.Domain.deps.json
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/bin/Debug/netstandard2.0/DropzoneMobile.Domain.dll
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/bin/Debug/netstandard2.0/DropzoneMobile.Domain.pdb
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/obj/Debug/netstandard2.0/DropzoneMobile.Domain.csproj.CoreCompileInputs.cache
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/obj/Debug/netstandard2.0/DropzoneMobile.Domain.AssemblyInfoInputs.cache
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/obj/Debug/netstandard2.0/DropzoneMobile.Domain.AssemblyInfo.cs
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/obj/Debug/netstandard2.0/DropzoneMobile.Domain.dll
+/Users/franciscebu/Projects/DropzoneMobile/Domain/DropzoneMobile.Domain/obj/Debug/netstandard2.0/DropzoneMobile.Domain.pdb

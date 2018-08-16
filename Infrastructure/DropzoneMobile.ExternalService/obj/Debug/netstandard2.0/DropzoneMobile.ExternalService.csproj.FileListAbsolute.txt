@@ -1,0 +1,8 @@
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/bin/Debug/netstandard2.0/DropzoneMobile.ExternalService.deps.json
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/bin/Debug/netstandard2.0/DropzoneMobile.ExternalService.dll
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/bin/Debug/netstandard2.0/DropzoneMobile.ExternalService.pdb
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/obj/Debug/netstandard2.0/DropzoneMobile.ExternalService.csproj.CoreCompileInputs.cache
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/obj/Debug/netstandard2.0/DropzoneMobile.ExternalService.AssemblyInfoInputs.cache
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/obj/Debug/netstandard2.0/DropzoneMobile.ExternalService.AssemblyInfo.cs
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/obj/Debug/netstandard2.0/DropzoneMobile.ExternalService.dll
+/Users/franciscebu/Projects/DropzoneMobile/Infrastructure/DropzoneMobile.ExternalService/obj/Debug/netstandard2.0/DropzoneMobile.ExternalService.pdb

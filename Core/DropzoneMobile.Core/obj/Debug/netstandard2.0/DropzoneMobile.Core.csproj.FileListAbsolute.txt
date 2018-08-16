@@ -1,0 +1,9 @@
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/bin/Debug/netstandard2.0/DropzoneMobile.Core.deps.json
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/bin/Debug/netstandard2.0/DropzoneMobile.Core.dll
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/bin/Debug/netstandard2.0/DropzoneMobile.Core.pdb
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/obj/Debug/netstandard2.0/DropzoneMobile.Core.csprojResolveAssemblyReference.cache
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/obj/Debug/netstandard2.0/DropzoneMobile.Core.csproj.CoreCompileInputs.cache
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/obj/Debug/netstandard2.0/DropzoneMobile.Core.AssemblyInfoInputs.cache
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/obj/Debug/netstandard2.0/DropzoneMobile.Core.AssemblyInfo.cs
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/obj/Debug/netstandard2.0/DropzoneMobile.Core.dll
+/Users/franciscebu/Projects/DropzoneMobile/Core/DropzoneMobile.Core/obj/Debug/netstandard2.0/DropzoneMobile.Core.pdb

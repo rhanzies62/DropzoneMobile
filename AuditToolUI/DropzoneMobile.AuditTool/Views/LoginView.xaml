@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DropzoneMobile.AuditTool.Views.LoginView">
+    <ContentPage.Content>
+        <StackLayout x:Name="loginLayout" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" >
+            <Entry Text="" Placeholder="Enter Username" WidthRequest="400" />
+            <Entry Text="" Placeholder="Enter Password" WidthRequest="400" IsPassword="true" />
+            <Button x:Name="btnLogin" Text="Login"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
